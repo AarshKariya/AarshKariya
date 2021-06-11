@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-ten-bice.vercel.app/api/spotify-playing" alt="AarshKariya Spotify Playing" width="350" />](https://open.spotify.com/user/irrz72bozll7ho8x18d81y79f)
+[![Spotify](https://aarshkariya-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/irrz72bozll7ho8x18d81y79f)
 
 
 ### Connect with me:
