@@ -31,9 +31,6 @@
 
 
 <br />
-<br />
-
----
 
 <!--### 📺 Latest YouTube Videos
 
@@ -47,21 +44,13 @@
 
 ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Conversational AI](https://aarshkariya.medium.com/conversational-ai-5478b0c131ab)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://aarshkariya.medium.com/)
-
----
 
 <!--<details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -74,14 +63,14 @@
 5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
 <!--END_SECTION:activity 
 
-</details> -->
+</details> 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://aarshkariya.medium.com/
 <!--[course]: http://vsCodeHero.com -->
@@ -89,7 +78,7 @@
 <!--[youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://www.instagram.com/aarshdkariya/
 [linkedin]: https://www.linkedin.com/in/aarsh-kariya-b27172190/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+<!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 --> 
